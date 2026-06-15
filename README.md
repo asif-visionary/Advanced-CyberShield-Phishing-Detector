@@ -440,22 +440,22 @@ The phishing detection model was evaluated using standard classification metrics
 
 ### Email Model Confusion Matrix
 
-![Email Model](email_cm.png)
+![Email Model Confusion Matrix](./screenshots/email_cm.png)
 
 ### Advanced Email Model Confusion Matrix
 
-![Advanced Email Model](advanced_email_cm.png)
+![Advanced Email Model Confusion Matrix](./screenshots/advanced_email_cm.png)
 
 ### URL Model Confusion Matrix
 
-![URL Model](url_cm.png)
+![URL Model Confusion Matrix](./screenshots/url_cm.png)
 
 ### Expected Outcome
 
 The system successfully classifies emails as:
 
-* Phishing
-* Safe
+- Phishing
+- Safe
 
 using textual content analysis, NLP techniques, and security-related feature extraction.
 
