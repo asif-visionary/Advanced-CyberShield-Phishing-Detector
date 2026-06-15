@@ -233,24 +233,6 @@ Dashboard & Reports
 
 ---
 
-### Email Model Confusion Matrix
-
-[![Email Model](screenshots/email_cm.png)](screenshots/email_cm.png)
-
----
-
-### Advanced Email Model Confusion Matrix
-
-[![Advanced Email Model](screenshots/advanced_email_cm.png)](screenshots/advanced_email_cm.png)
-
----
-
-### URL Model Confusion Matrix
-
-[![URL Model](screenshots/url_cm.png)](screenshots/url_cm.png)
-
----
-
 ## Project Structure
 
 ```text
