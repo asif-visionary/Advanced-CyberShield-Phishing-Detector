@@ -235,25 +235,19 @@ Dashboard & Reports
 
 ### Email Model Confusion Matrix
 
-<a href="screenshots/email_cm.png">
-    <img src="screenshots/email_cm.png" width="100%">
-</a>
+[![Email Model](screenshots/email_cm.png)](screenshots/email_cm.png)
 
 ---
 
 ### Advanced Email Model Confusion Matrix
 
-<a href="screenshots/advanced_email_cm.png">
-    <img src="screenshots/advanced_email_cm.png" width="100%">
-</a>
+[![Advanced Email Model](screenshots/advanced_email_cm.png)](screenshots/advanced_email_cm.png)
 
 ---
 
 ### URL Model Confusion Matrix
 
-<a href="screenshots/url_cm.png">
-    <img src="screenshots/url_cm.png" width="100%">
-</a>
+[![URL Model](screenshots/url_cm.png)](screenshots/url_cm.png)
 
 ---
 
