@@ -542,7 +542,7 @@ Cyber Security Enthusiast | Python Developer | AI & Security Projects
 
 ---
 
-##📬 Feedback & Contributions
+## 📬 Feedback & Contributions
 
 Contributions, suggestions, and feedback are welcome.
 
@@ -554,6 +554,6 @@ If you'd like to improve this project:
 4.Open a Pull Request
 
 ---
-## 📬Feedback & Contributions
+
 ![GitHub stars](https://img.shields.io/github/stars/asif-visionary/Advanced-CyberShield-Phishing-Detector?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/asif-visionary/Advanced-CyberShield-Phishing-Detector?style=social)
