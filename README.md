@@ -193,14 +193,6 @@ Dashboard & Reports
 
 ---
 
-### Phishing Email Detection
-
-<a href="screenshots/phishing_detection.png">
-    <img src="screenshots/phishing_detection.png" width="100%">
-</a>
-
----
-
 ### Safe Email Detection
 
 <a href="screenshots/safe_detection.png">
@@ -213,6 +205,14 @@ Dashboard & Reports
 
 <a href="screenshots/ecommerce_test.png">
     <img src="screenshots/ecommerce_test.png" width="100%">
+</a>
+
+---
+
+### Phishing Email Detection
+
+<a href="screenshots/phishing_detection.png">
+    <img src="screenshots/phishing_detection.png" width="100%">
 </a>
 
 ---
