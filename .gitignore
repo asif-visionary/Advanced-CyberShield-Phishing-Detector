@@ -1,0 +1,18 @@
+# Models
+*.pkl
+
+# Datasets
+*.csv
+advanced_email_datasets/
+
+# Generated files
+threat_report.pdf
+shap_waterfall.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+history.db
+*.sqlite

@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+shap
+fpdf2
+nltk
+beautifulsoup4
+tldextract
+streamlit
+matplotlib
+seaborn
